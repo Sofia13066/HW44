@@ -33,7 +33,7 @@ class BullsAndCows{
     }
 
     static void check(String randomizedNum,String guessedNum,int cows,int bulls) {
-        for (int i = 0; i < guessedNum.length(); i++) {
+        for (int i = 0; i < 4 && i<guessedNum.length(); i++) {
             char c1 = randomizedNum.charAt(i);
             char c2 = guessedNum.charAt(i);
                 if(c1==c2){
