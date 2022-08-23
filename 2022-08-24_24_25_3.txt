@@ -1,0 +1,4 @@
+Guessed number 1234, cows = 1, bulls = 1
+Guessed number 5678, cows = 0, bulls = 1
+Guessed number 1379, cows = 0, bulls = 4
+
